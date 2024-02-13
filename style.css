@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Constantia', "Times New Roman";
+  background-image: url('https://thumbor.bigedition.com/laird-hamilton-surfing/qoy01cE9IEoPU_Nn8cWPDvEssto=/0x75:600x525/600x0/filters:quality(80)/granite-web-prod/b7/d8/b7d8004094ee486daf2958a28de80682.jpeg');
+  background-size: cover;
+  color: #FFFFFF;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+.headline {
+  font-family: 'Roboto', sans-serif;
+}
+
+#intro, #profiles {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.profile {
+  float: left;
+  width: 200px;
+  margin: 20px;
+}
+
+.profile img {
+  width: 100%;
+  height: auto;
+}
+
+.profile p {
+  text-align: center;
+}
